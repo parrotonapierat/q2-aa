@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>EyE SpyE</title>
+      <style>
+            body{
+                 margin:0px;
+                }
+            ul{
+			list-style-type: none;
+			margin: 0px;
+			padding:0px;
+			  }
+			a{ 
+			text-decoration:underline;
+			color: black;
+			font-family: impact;
+			
+			.nav
